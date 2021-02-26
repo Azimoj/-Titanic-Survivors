@@ -4,6 +4,7 @@ Titanic was a British passenger liner operated by the White Star Line that sank 
 
 
 Understanding the data
+
 Survival : 0 = No, 1 = Yes
 Pclass : A proxy for socio-economic status (SES) 1st = Upper 2nd = Middle 3rd = Lower
 sibsp : The # of siblings / spouses aboard the Titanic Sibling = brother, sister, stepbrother, stepsister Spouse =
